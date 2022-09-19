@@ -2,10 +2,10 @@
 ```bash
 <script src="https://cdn.tailwindcss.com"></script>
 ```
+For installing Tailwindcss with server
 ```
 npm init -y
 ```
-For installing Tailwindcss with server
 ```
 npm install -D tailwindcss postcss autoprefixer vite
 ```
