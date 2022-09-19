@@ -1,4 +1,4 @@
-# We add this script in <head>
+# We add this script in Head
 ```bash
 <script src="https://cdn.tailwindcss.com"></script>
 ```
