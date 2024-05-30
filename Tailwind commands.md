@@ -12,9 +12,9 @@ npm install -D tailwindcss postcss autoprefixer vite
 ```
 npx tailwindcss init -p
 ```
-Aad This script in package.json file
+Add This script in package.json file
 ```
-"start": "vite"
+"start": "vite",
 "build": "vite build"
 ```
 For starting server
